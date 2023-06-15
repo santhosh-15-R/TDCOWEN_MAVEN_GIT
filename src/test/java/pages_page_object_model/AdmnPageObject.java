@@ -71,11 +71,9 @@ public class AdmnPageObject {
 
     public void uploadBrowseFile() throws InterruptedException, IOException {
         Thread.sleep(3000);
-<<<<<<< HEAD
+
         browseFile.sendKeys("C:\\TDC\\MavenTDC\\src\\test\\resources\\testdata_(store_excel_files__contains_datas)\\2021_trade_data_DuplicateRow.csv");
-=======
-        browseFile.sendKeys("C:\TDC\MavenTDC\src\test\resources\testdata_(store_excel_files__contains_datas)\2021_trade_data_DuplicateRow.csv");
->>>>>>> d52fc1ba77c030516c92edd96ff22c5c8a0dd382
+
         Thread.sleep(1000);
         applyMapping.click();
         Thread.sleep(5000);
@@ -116,11 +114,9 @@ public class AdmnPageObject {
     //span[@class='description']
     public void uploadPdfBrowseFile() throws InterruptedException, IOException {
         Thread.sleep(3000);
-<<<<<<< HEAD
+
         browseFile.sendKeys("C:\\TDC\\MavenTDC\\src\\test\\resources\\testdata_(store_excel_files__contains_datas)\\pdf_sample_data.pdf");
-=======
-        browseFile.sendKeys("C:\TDC\MavenTDC\src\test\resources\testdata_(store_excel_files__contains_datas)\pdf_sample_data.pdf");
->>>>>>> d52fc1ba77c030516c92edd96ff22c5c8a0dd382
+
         Thread.sleep(1000);
 
     }
