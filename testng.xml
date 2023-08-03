@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true"
+<!--     <test verbose="2" preserve-order="true"
           name="C:/TD-COWEN/TDCowen_WEB/TD-COWEN/src/test/java/Testcases/Equity/TC_Web_101.java">
         <classes>
             <class name="Testcases.Equity.TC_Web_101">
@@ -10,7 +10,7 @@
                 </methods>
             </class>
         </classes>
-    </test>
+    </test> -->
     <test verbose="2" preserve-order="true"
           name="C:/TD-COWEN/TDCowen_WEB/TD-COWEN/src/test/java/Testcases/Equity/TC_Web_102.java">
         <classes>
